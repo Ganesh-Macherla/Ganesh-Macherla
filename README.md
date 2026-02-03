@@ -29,7 +29,7 @@ Right now I’m focused on:
 Research focused on improving reliability and efficiency in federated learning
 across heterogeneous Internet-of-Federated-Things environments.
 
-📄 Paper:
+📄 A basic idea : [Read the paper] (Reliability-Aware Asynchronous Federated Learning (RA-AFL) (3).pdf)
 
 ## 💻 What I’m Working On
 
