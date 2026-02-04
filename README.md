@@ -39,7 +39,6 @@ across heterogeneous Internet-of-Federated-Things environments.
 
 I believe breaking things is part of understanding them.
 
-## 🔧 Toolbox
 
 ## 🔧 Toolbox
 
