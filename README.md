@@ -5,6 +5,7 @@ I’m a CS sophomore specializing in IoT with a wide curiosity for technology as
 I care about fundamentals, experimentation, and understanding systems beyond the surface.
 Slow but a Stubborn learner.
 
+
 ## 🚀 Direction
 
 I’m strengthening my core CS foundation while exploring AI and Machine Learning.
@@ -67,8 +68,6 @@ Curiosity > speed
 Consistency > perfection  
 Understanding > memorization
 
-I’m not rushing mastery.  
-I’m building it.
 
 ---
 
