@@ -33,10 +33,10 @@ across heterogeneous Internet-of-Federated-Things environments.
 
 ## 💻 What I’m Working On
 
-- **DSA practice** — strengthening logic step by step
-- **AI integration** - machine learning fundamentals and LLM's
-- **IoT exploration** — hardware + software integration
-- **Learning projects** — small builds that teach big lessons
+- **DSA practice** :- strengthening logic step by step
+- **AI integration** :- machine learning fundamentals and LLM's
+- **IoT exploration** :- hardware + software integration
+- **Learning projects** :- small builds that teach big lessons
 
 I believe breaking things is part of understanding them.
 
