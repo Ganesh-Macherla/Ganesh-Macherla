@@ -2,10 +2,11 @@
 
 I’m a CS sophomore specializing in IoT with a wide curiosity for technology as a whole.
 I care about fundamentals, experimentation, and understanding systems beyond the surface.
+I'm just a curious guy, who wants to experiment and build on different things....still not figured out what I truly want, so there's no shame in exploring everything
 Slow but a stubborn learner. I'd rather learn through multiple hard losses than one lucky victory.
 
 
-## 🚀 Direction
+## Direction
 
 I’m strengthening my core CS foundation while exploring AI and Machine Learning.
 
@@ -21,7 +22,7 @@ Right now I’m focused on:
 
 ---
 
-## 📄 Research
+## Research
 
 ### Reliability-Aware Asynchronous Federated Learning (RA-AFL)  
 *A Cross-Layer Optimization for Heterogeneous IoFT Networks*
@@ -30,7 +31,7 @@ Research focused on improving reliability and efficiency in federated learning
 across heterogeneous Internet-of-Federated-Things environments.
 
 
-## 💻 What I’m Working On
+## What I’m Working On
 
 - **DSA practice** :- strengthening logic step by step
 - **AI integration** :- machine learning fundamentals and LLM's
@@ -40,7 +41,7 @@ across heterogeneous Internet-of-Federated-Things environments.
 I believe breaking things is part of understanding them.
 
 
-## 🔧 Toolbox
+## Toolbox
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -62,7 +63,7 @@ Currently exploring:
 
 ---
 
-## 🧠 Philosophy
+## Philosophy
 
 Curiosity > speed  
 Consistency > perfection  
