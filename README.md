@@ -1,9 +1,12 @@
-## Hi there, Machu here! 👋
+## Hi there! 👋
 
-I’m a CS sophomore specializing in IoT with a wide curiosity for technology as a whole.
-I care about fundamentals, experimentation, and understanding systems beyond the surface.
+I'm Ganesh Macherla. Although some call me Machu.
+Just a normal CS sophomore specializing in IoT with a wide curiosity for technology as a whole.
+But I care about my fundamentals, experimentation, and understanding systems beyond the surface.
 I'm just a curious guy, who wants to experiment and build on different things....still not figured out what I truly want, so there's no shame in exploring everything
-Slow but a stubborn learner. I'd rather learn through multiple hard losses than one lucky victory.
+Slow but a stubborn learner. I'd rather learn through multiple hard losses than one lucky victory coz I believe that breaking things is part of understanding them.
+
+---
 
 
 ## Direction
@@ -30,6 +33,8 @@ Right now I’m focused on:
 Research focused on improving reliability and efficiency in federated learning
 across heterogeneous Internet-of-Federated-Things environments.
 
+---
+
 
 ## What I’m Working On
 
@@ -38,7 +43,8 @@ across heterogeneous Internet-of-Federated-Things environments.
 - **IoT exploration** :- hardware + software integration
 - **Learning projects** :- small builds that teach big lessons
 
-I believe breaking things is part of understanding them.
+
+---
 
 
 ## Toolbox
