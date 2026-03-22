@@ -1,9 +1,8 @@
 ## Hi there, Machu here! 👋
-### *Sleepy fundamentalist, but i will steal, analyize and make something of my own, if its interesting.*
 
 I’m a CS sophomore specializing in IoT with a wide curiosity for technology as a whole.
 I care about fundamentals, experimentation, and understanding systems beyond the surface.
-Slow but a Stubborn learner.
+Slow but a stubborn learner. I'd rather learn through multiple hard losses than one lucky victory.
 
 
 ## 🚀 Direction
