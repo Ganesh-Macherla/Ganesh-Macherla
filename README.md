@@ -2,7 +2,7 @@
 
 I'm Ganesh Macherla. Although some call me Machu.
 Just a normal CS sophomore specializing in IoT with a wide curiosity for technology as a whole.
-But I care about my fundamentals, experimentation, and understanding systems beyond the surface.
+I care about my fundamentals, experimentation, and understanding systems beyond the surface.
 I'm just a curious guy, who wants to experiment and build on different things....still not figured out what I truly want, so there's no shame in exploring everything
 Slow but a stubborn learner. I'd rather learn through multiple hard losses than one lucky victory coz I believe that breaking things is part of understanding them.
 
