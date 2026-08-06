@@ -1,103 +1,76 @@
-## Hi there! 👋
+## Heyy, how you doin' ;)
 
-I'm Ganesh Macherla. Although some call me Machu.
-Just a normal CS sophomore specializing in IoT with a wide curiosity for technology as a whole.
-I care about my fundamentals, experimentation, and understanding systems beyond the surface.
-I'm just a curious guy, who wants to experiment and build on different things....still not figured out what I truly want, so there's no shame in exploring everything
-Slow but a stubborn learner. I'd rather learn through multiple hard losses than one lucky victory coz I believe that breaking things is part of understanding them.
+![banner](./assets/banner.gif)
 
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/ganesh-macherla-05713b319/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:myselfganesh65@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
+<details>
+<summary>GitHub Statistics (ps: its bad)</summary>
+<br>
 
-## Direction
+<img src="https://github-readme-stats.vercel.app/api?username=Ganesh-Macherla&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-Macherla&theme=github-dark-blue&hide_border=true" height="165"/>
 
-I’m strengthening my core CS foundation while exploring AI and Machine Learning.
-
-My long-term goal is to work at the intersection of intelligent systems,
-distributed networks, and real-world engineering.
-
-Right now I’m focused on:
-
-- Data Structures & Algorithms
-- AI / Machine Learning fundamentals
-- Systems thinking & IoT optimization
-- Or simply anything which intrigues me
+</details>
 
 ---
 
-## Research
+### Currently building
 
-### Reliability-Aware Asynchronous Federated Learning (RA-AFL)  
-*A Cross-Layer Optimization for Heterogeneous IoFT Networks*
+**A composable systems stack in Java**. Five projects, each one a library imported by the next, culminating in a simplified Temporal-style workflow orchestration engine:
 
-Research focused on improving reliability and efficiency in federated learning
-across heterogeneous Internet-of-Federated-Things environments.
-
----
-
-
-## What I’m Working On
-
-- **DSA practice** :- strengthening logic step by step
-- **AI integration** :- machine learning fundamentals and LLM's
-- **IoT exploration** :- hardware + software integration
-- **Learning projects** :- small builds that teach big lessons
-
+```
+concurrent rate limiter → durable key-value store → reliable webhook delivery
+→ distributed job queue → workflow orchestration engine (capstone)
+```
 
 ---
 
+### Research
 
-## Toolbox
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-0A192F?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-Currently exploring:
-
-- AI fundamentals
-- Machine Learning concepts
-- System-level architecture
+**Reliability-Aware Asynchronous Federated Learning (RA-AFL)**
+A cross-layer optimization approach for improving reliability and efficiency in federated learning across heterogeneous Internet-of-Federated-Things (IoFT) environments.
 
 ---
 
-## Philosophy
+### Portfolio
 
-Curiosity > speed  
-Consistency > perfection  
-Understanding > memorization
+This is my very own Portfolio blogsite. Yes, a blogsite and a portfolio. Here, you'll find my projects, technical write-ups, and insights into the technologies I'm exploring and building with or just random 2AM thoughts.
 
+Machu's Archives
 
 ---
 
-## 📬 Connect with me
+### Focus areas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-macherla-05713b319/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myselfganesh65@gmail.com)
+| Area | Details |
+|---|---|
+| **AI / ML** | Currently deep in: ML fundamentals, LLM internals & integration |
+| **Core CS** | Data Structures & Algorithms, COA, Systems Thinking, OS |
+| **Distributed Systems** | Fault tolerance, orchestration, async processing |
+| **IoT** | Hardware-software integration, network optimization, sensors and microcontrollers |
 
+---
 
+### Stack
 
+```
+AI / ML       Learning right now: ML fundamentals · model training · LLM tooling
+Languages     Java · Python · C · C++ · JavaScript
+Web           React · Next.js
+Systems/IoT   Embedded protocols · Raspberry Pi · Networking
+```
 
+---
 
-<!--
-**Ganesh-Macherla/Ganesh-Macherla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm weird
 
-Here are some ideas to get you started:
+- Curiosity over speed. I'd rather understand *why* than ship fast
+- I accidentally break things, learn why they broke, fix them, and pretending it was all part of the plan. :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="left"><i>Reach out to me about systems, IoT, ML, or anything, really :D</i></p>
