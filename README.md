@@ -40,7 +40,7 @@ A cross-layer optimization approach for improving reliability and efficiency in 
 
 This is my very own Portfolio blogsite. Yes, a blogsite and a portfolio. Here, you'll find my projects, technical write-ups, and insights into the technologies I'm exploring and building with or just random 2AM thoughts.
 
-Machu's Archives
+[Machus Archives](https://ganesh-macherla.github.io/portfolio-blogsite/)
 
 ---
 
